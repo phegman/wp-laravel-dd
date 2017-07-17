@@ -1,13 +1,12 @@
-=== Plugin Name ===
-Contributors: phegman
-
-Donate link: https://www.paypal.me/PeterHegman 
-Tags: debug, die, dump, var-dumper, laravel, dev tools 
-Requires at least: 3.0.1 
-Tested up to: 4.8 
-Stable tag: 4.8 
-License: GPLv2 or later 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+=== Plugin Name ===  
+Contributors: phegman  
+Donate link: https://www.paypal.me/PeterHegman  
+Tags: debug, die, dump, var-dumper, laravel, dev tools  
+Requires at least: 3.0.1  
+Tested up to: 4.8  
+Stable tag: 4.8  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
 Use Laravel's dd() (die dump) function in your Wordpress projects. Perfect for debuging custom queries!
 
