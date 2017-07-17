@@ -12,7 +12,8 @@ Use Laravel's `dd()` (die dump) function in your Wordpress projects. Perfect for
 
 == Description ==
 
-Use Laravel's [`dd()`](https://laravel.com/docs/5.4/helpers#method-dd) (die dump) function in your Wordpress projects. Perfect for debuging custom queries! Laravel's `dd()` function is built on top of the [Symfony VarDumper component](http://symfony.com/doc/current/components/var_dumper.html) **Please note in order for this plugin to work correctly Wordpress Emojis will be disabled**
+Use Laravel's [`dd()`](https://laravel.com/docs/5.4/helpers#method-dd) (die dump) function in your Wordpress projects. Perfect for debuging custom queries! Laravel's `dd()` function is built on top of the [Symfony VarDumper component](http://symfony.com/doc/current/components/var_dumper.html)  
+**Please note in order for this plugin to work correctly Wordpress Emojis will be disabled**
 
 == Installation ==
 
