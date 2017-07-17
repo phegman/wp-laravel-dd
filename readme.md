@@ -8,7 +8,7 @@ Stable tag: 4.8
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
-Use Laravel's dd() (die dump) function in your Wordpress projects. Perfect for debuging custom queries!
+Use Laravel's `dd()` (die dump) function in your Wordpress projects. Perfect for debuging custom queries!
 
 == Description ==
 
@@ -19,17 +19,3 @@ Use Laravel's [`dd()`](https://laravel.com/docs/5.4/helpers#method-dd) (die dump
 1.  Install via the Wordpress plugin repository or download and place in /wp-content/plugins directory
 2.  Activate the plugin through the \'Plugins\' menu in WordPress
 3.  Use the function `dd()` anywhere in your theme
-
-== Screenshots ==
-
-1. What dd() looks like
-
-== Changelog ==
-
-= 1.0 =
-* First version
-
-== Upgrade Notice ==
-
-= 1.0 =
-First version
