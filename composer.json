@@ -1,0 +1,19 @@
+{
+    "name": "peterhegman/wp-laravel-dd",
+    "description": "Laravel DD for Wordpress",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Peter Hegman",
+            "email": "phegman@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PeterHegman\\": "src/PeterHegman"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "3.1.*"
+    }
+}
