@@ -1,5 +1,6 @@
 === Plugin Name ===
-Contributors: phegman 
+Contributors: phegman
+
 Donate link: https://www.paypal.me/PeterHegman 
 Tags: debug, die, dump, var-dumper, laravel, dev tools 
 Requires at least: 3.0.1 
