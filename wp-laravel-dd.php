@@ -34,7 +34,7 @@ if ( ! defined( 'WPINC' ) ) {
 require __DIR__ . '/vendor/autoload.php';
 
 // If we haven't loaded this plugin from Composer we need to add our own autoloader
-if (!class_exists('PeterHegman\WPLaravelDD')) {
+if (!class_exists('PeterHegman\Dumper')) {
     // Get a reference to our PSR-4 Autoloader function that we can use to add our
     $autoloader = require_once('autoload.php');
 
