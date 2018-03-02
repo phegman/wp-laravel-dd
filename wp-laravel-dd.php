@@ -16,7 +16,7 @@
  * Plugin Name:       Laravel DD for Wordpress
  * Plugin URI:
  * Description:       Use Laravel's dd() (die dump) function in your Wordpress projects
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Peter Hegman
  * Author URI:        https://peterhegman.com/
  * License:           GPL-2.0+
