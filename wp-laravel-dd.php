@@ -60,6 +60,7 @@ if (! function_exists('dd')) {
      */
     function dd()
     {
+        header('Content-Type: text/html');
         array_map(function ($x) {
             (new PeterHegman\Dumper)->dump($x);
         }, func_get_args());
